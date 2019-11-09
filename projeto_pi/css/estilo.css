@@ -1,0 +1,22 @@
+/* ESTILO.CSS */
+
+*{ margin: 0; padding: 0; }
+body{ font-family: helvetica, arial; font-size: 16px; color:#333; } 
+header{ height: 90px; background-color:#262626; }
+footer{ height: 50px;
+		background-color: #363636; 
+		padding:10px 0; 
+		text-align: center; 
+		font-size: 15px; 
+		color: white; 
+	}
+
+
+#conteudo{ padding:100px 0; }
+#menu{ float: right; padding: 33px 0px;}
+#menu a{ 
+	text-decoration: none; 
+	padding: 44px 44px; 
+	color: #e3e3e3; 
+	font-size: 20px }
+#menu a:hover{background-color:#44b874; text-shadow: 1px 1px 1px #111; color:black;}
